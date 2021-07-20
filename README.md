@@ -1,3 +1,5 @@
+The Original Read-Me. I have revised it to use ESP8266.
+
 # Ender3-Filament-Digital-Scale #
 [![Build Status](https://travis-ci.org/jasonacox/Ender3-Filament-Digital-Scale.svg?branch=master)](https://travis-ci.org/jasonacox/Ender3-Filament-Digital-Scale)
 
